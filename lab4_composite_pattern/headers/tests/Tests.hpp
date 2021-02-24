@@ -1,0 +1,7 @@
+#include "Op_test.hpp"
+#include "Rand_test.hpp"
+#include "Mult_test.hpp"
+#include "Div_test.hpp"
+#include "Add_test.hpp"
+#include "Sub_test.hpp"
+#include "Pow_test.hpp"
